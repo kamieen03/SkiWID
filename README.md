@@ -1,0 +1,2 @@
+# SkiWID
+Zadania ze SkiWID
